@@ -37,6 +37,7 @@ require (
 	github.com/prometheus/procfs v0.1.3 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0 // indirect
 	github.com/reviewdog/reviewdog v0.10.2
+	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
 	github.com/tsg/go-daemon v0.0.0-20200207173439-e704b93fd89b
 	go.elastic.co/ecszap v0.2.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
